@@ -1,0 +1,10 @@
+<widget id="com.phonegapspain.miapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Acuario App</name>
+    <description>
+       Aplicación Informativa para Acuarios 
+    </description>
+    <author email="braisjorge@gmail.com" href="http://braisjorge.xyz">
+        El Capitán | Brais Jorge
+    </author>
+     <icon src="icon.png" />
+</widget>
