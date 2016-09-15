@@ -1,6 +1,23 @@
-.title-bar {
-	background-color: #E6E6E6;
+.title-bar, .off-canvas {
+	background-color: #f9f9f9;
 }
 .menu-icon {
 	filter: invert(40%);
+}
+li {
+	display: block;
+}
+li img {
+	width: 70%;
+}
+.off-canvas-content {
+	background-image: url(back.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.main-logo {
+	position: relative;
+	top: 5em;
+	width: 80%;
+	margin: 0 auto;
 }
