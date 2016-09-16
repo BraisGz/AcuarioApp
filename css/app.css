@@ -1,6 +1,8 @@
 body {
+	/*
 	animation-name:helloleft;
 	animation-duration: 0.5s;
+	*/
 }
 @keyframes helloleft {
 	from {
