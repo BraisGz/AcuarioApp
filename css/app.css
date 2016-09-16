@@ -92,9 +92,51 @@ a {
 }
 .bubble3 {
 	animation-name:flip;
-	animation-duration: 0.3s;
+	animation-duration: 2s;
 }
 .bubble4 {
 	animation-name:flip;
+	animation-duration: 1.8s;
+}
+.bubble5 {
+	animation-name:flip;
+	animation-duration: 1.6s;
+}
+.bubble6 {
+	animation-name:flip;
+	animation-duration: 1.4s;
+}
+.bubble7 {
+	animation-name:flip;
+	animation-duration: 1.2s;
+}
+.bubble8 {
+	animation-name:flip;
+	animation-duration: 1s;
+}
+.bubble9 {
+	animation-name:flip;
+	animation-duration: 0.8s;
+}
+.bubble10 {
+	animation-name:flip;
+	animation-duration: 0.6s;
+}
+.bubble11 {
+	animation-name:flip;
+	animation-duration: 0.4s;
+}
+.bubble12 {
+	animation-name:flip;
 	animation-duration: 0.2s;
 }
+.bubble13 {
+	animation-name:flip;
+	animation-duration: 0.1s;
+}
+.bubble14 {
+	animation-name:flip;
+	animation-duration: 0.1s;
+}
+
+
